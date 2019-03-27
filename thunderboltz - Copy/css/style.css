@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:green;
+    height: 80px;;
+}
+.navigation{
+    float: right;
+}
+.navigation {
+    margin-top: -60px;
+    margin-right: 10px;
+}
+.nav ul li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    border-left: 1px solid gray;
+    font-size: 20px;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: orangered;
+}
+.mainA{
+    text-align: center;
+    background-image: url(main.jpg);
+    background-size: cover;
+    height: 600px;
+}
+.mainArticle{
+    color: white;
+    padding-top: 150px;
+}
+.mainA-btn{
+    border: none;
+    background-color: orange;
+    font-size: 15px;
+    color: white;
+    width: 60px;
+    height: 30px;
+    margin-top: 20px;
+}
+.mainB{
+    margin-top: 0px;
+    height: 600px;
+    margin-bottom: 20px;
+}
+.headingA{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+    background-color: rgb(216, 146, 32);
+}
+.content-box{
+    text-align: center;
+    width: 200px;
+    float: left;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px 80px;
+    box-shadow: 4px 4px 10px #777;
+    border-radius: 20px;
+    background-color: #E5E7E9  
+}
+.content-box-article{
+    padding-top: 10px;
+}
+.mainC{
+    text-align: center;
+    padding-top: 20px;
+    background-color:#27AE60 ;
+}
+.mainC-btn{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+.mainD{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 600px;
+}
+.headingC{
+    font-size: 50px;
+}
+.advisery-people{
+border-radius: 50%;
+}
+.advisery-images{
+    float: left;
+    margin: 20px 95px;
+}
+.headingC{
+    text-align: center;
+}
+.advisery, .advisery-caption{
+    text-align: center;
+}
+.mainE{
+    text-align: center;
+   margin-top: 60px;
+   height: 550px;
+}
+.headingD{
+    font-size: 50px;
+}
+.testimonian-box{
+    margin: 30px 50px;
+    width: 300px;
+    float: left;
+    height: 400px;
+    background-color: #D7DBDD;
+    padding: 10px;
+}
+.testimonial-article{
+    padding-top: 40px;
+}
+.testimonial-article-writer{
+    font-size: 30px;
+}
+.mainF{
+    height: 400px;
+    background-color: #27AE60;
+}
+.new-membership-box{
+    width: 600px;
+    background-color: blueviolet;
+    margin-left: 300px;
+}
+.new-membership-heading{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    text-align: center;
+}
+.new-membership-article{
+    width: 300px;
+    font-size: 20px;
+    padding: 10px 30px;
+    height: 236px;
+    text-align: center;
+}
+.new-membership-image{
+    float: right;
+}
+.join-btn{
+background-color: orange;
+color: rgb(255, 255, 255);
+border: none;
+font-size: 15px;
+width: 60px;
+height: 30px;
+border-radius: 10px;
+margin-top: 20px;
+}
+.mainG{
+    height: 500px;
+}
+.headingF{
+    margin-top: 20px;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.events-images{
+    float: left;
+    margin: 20px 60px;
+}
+.events-article{
+    width: 300px;
+    text-align: center;
+}
+.mainH{
+    padding-top: 50px;
+    text-align: center;
+    height: 400px;
+    background-color: #27AE60;
+   
+}
+.mainH-container{
+    width: 700px;
+    margin: 20px 300px;
+}
+.donate-article-one{
+   padding-top: 50px;
+}
+.donate-article{
+    width: 300px;
+    float: left;
+   padding-top: 20px;
+}
+.donate-image{
+    float: left;
+}
+.donate-btn{
+    margin-top: 30px;
+    font-size: 20px;
+    border: none;
+    background-color: orange;
+    width: 70px;
+    height: 30px;
+}
+.footer{
+    color: white;
+    height: 400px;
+    background-color: rgb(24, 56, 114);
+    /* background-color: black; */
+}
+.footer-table{
+    margin: 0px 100px;
+}
+.footer-table-heading{
+    padding: 120px 40px 5px 40px;
+    text-align: left;
+    font-size: 25px;
+}
+.footer-table-data{
+    padding: 5px 40px;
+    font-size: 20px;
+}
+.footer-table-data a{
+    text-decoration: none;
+    color: white;
+}
+.copy-write-name{
+    margin-left: 145px;
+    margin-top: 80px;
+    font-size: 15px;
+}
+.social-media{
+    float: right;
+    font-size: 40px;
+    margin-top: -330px;
+    margin-right: 50px;
+}
+.social-media-icons a{
+    color: white;
+}
+.social-media li{
+  list-style: none;
+  padding: 20px 30px;
+  display: inline-block;
+}
+.footer-logo{
+    position: absolute;
+    top: 4180px;
+    left: 1050px;
+}

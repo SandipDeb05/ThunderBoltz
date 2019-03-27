@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 20px 40px;
+    background-color: aqua;
+}
+.main{
+    height: 500px;
+}
+.content-box{
+    width: 200px;
+    border: 1px solid gray;
+    padding: 20px;
+    float: left;
+    margin: 40px 180px;
+}
+.location-icon{
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 55px;
+    height: 50px;
+    position: absolute;
+    top: 120px;
+    left: 275px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: aqua;
+}
+.bank-icon{
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 55px;
+    height: 50px;
+    position: absolute;
+    top: 120px;
+    left: 875px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: aqua;
+
+}
+.message-icon{
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 55px;
+    height: 50px;
+    position: absolute;
+    top: 360px;
+    left: 275px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: aqua;
+}
+.social-icon{
+    padding-top: 5px;
+    border-radius: 50%;
+    width: 55px;
+    height: 50px;
+    position: absolute;
+    top: 360px;
+    left: 875px;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: aqua;
+ 
+}
+.footer{
+    background-color: rgb(24, 56, 114);
+    color: white;
+    height: 300px;
+}
+.footer-table{
+    margin: 0px 100px;
+}
+.footer-table-heading{
+    padding: 80px 40px 5px 40px;
+    text-align: left;
+    font-size: 25px;
+}
+.footer-table-data{
+    padding: 5px 40px;
+    font-size: 20px;
+}
+.footer-table-data a{
+    text-decoration: none;
+    color: white;
+}
+.copy-write-name{
+    margin-left: 143px;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.social-media{
+    float: right;
+    font-size: 40px;
+    margin-top: -200px;
+}
+.social-media li{
+    list-style: none;
+    padding: 20px 30px;
+    display: inline-block;
+}
+.social-media-icons a{
+    color: white;
+}
